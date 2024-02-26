@@ -73,5 +73,5 @@ The distribution plots for the numerical features reveal the following insights:
 Given the varied scales of the numerical features, standardizing the data is crucial before clustering to ensure each feature contributes equally to the distance calculations. We will explore the optimal number of clusters using the elbow method and perform k-means clustering on the standardized data.
 
 ### Conclusion
-
+![Correlation matrix](Screenshot%202024-02-26%20221120.png)
 This dataset's exploratory analysis reveals significant variability in student engagement metrics, suggesting potential for clustering to identify patterns or groups of similar student behaviors. The next steps involve k-means clustering to segment the student population based on engagement levels, further analyzed to derive actionable insights
