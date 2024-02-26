@@ -4,7 +4,7 @@
 To proceed with exploratory data analysis (EDA) and k-means clustering, I'll start by summarizing the dataset's statistical properties, check for missing values, and then analyze the distributions of numerical and categorical features. This will help identify patterns, outliers, and the structure of the data, providing insights into how to approach the k-means clustering. ​​
 
 The dataset consists of 480 entries with no missing values across all features. Here's a brief summary of the numerical features:
-
+![exploratory data analysis](Screenshot%202024-02-26%20220926.png)
 - *Raised Hands*: Students' participation varies widely, with an average of approximately 46.78 times, a minimum of 0, and a maximum of 100. The standard deviation is 30.78, indicating a wide spread of participation levels.
 - *Visited Resources*: On average, students visited resources about 54.80 times, with a range from 0 to 99. This suggests varying levels of engagement with the material provided.
 - *Announcements View*: The average views are around 37.92, with a minimum of 0 and a maximum of 98, showing diverse attention to announcements.
