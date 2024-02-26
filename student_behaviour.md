@@ -69,7 +69,7 @@ The distribution plots for the numerical features reveal the following insights:
 - *Discussion*: More uniform across the range but shows a slight skew towards lower engagement levels.
 
 #### Preparing for K-Means Clustering
-![ Preparing for K-Means Clustering](Screenshot%202024-02-26%20220926.png)
+![ Preparing for K-Means Clustering](Screenshot%202024-02-26%20221035.png)
 Given the varied scales of the numerical features, standardizing the data is crucial before clustering to ensure each feature contributes equally to the distance calculations. We will explore the optimal number of clusters using the elbow method and perform k-means clustering on the standardized data.
 
 ### Conclusion
